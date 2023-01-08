@@ -32,14 +32,13 @@ Haplotype 2 is available at [link](https://durianreferencelbcb.s3.eu-central-1.a
 | NG50 | 20.685.927 | 21.459.630 |
 | # contigs | 599 | 353 |
 | # contigs >= 3Mbp | 45 | 45 |
-| # contigs* with TR** at the beginning and ending | 12 | 11 |
-| # contigs* with TR** at the beginning | 20 | 15 |
-| # contigs* with TR** at the ending | 8 | 13 |
-| # contigs* with no TR** at the beginning and ending | 5 | 6 |
+| # contigs* with TR** at both endings | 12 | 11 |
+| # contigs* with TR** at one of the endings | 28 | 28 |
+| # contigs* with no TR** at the endings | 5 | 6 |
 
 contigs* - contigs larger or equal to 3Mbp
 
-TR** - tandem repeats
+TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 ### D-Genies plots - assemblies vs reference
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.1-assembly-to-reference.png)
@@ -68,14 +67,13 @@ Hifi reads were beforehand procured using [DeepConsensus](https://github.com/goo
 | NG50 | 21.458.057 | 22.634.734 |
 | # contigs | 370 | 299 |
 | # contigs >= 3Mbp | 43 | 40 |
-| # contigs* with TR** at the beginning and ending | 13 | 14 |
-| # contigs* with TR** at the beginning | 15 | 14 |
-| # contigs* with TR** at the ending | 10 | 8 |
-| # contigs* with no TR** at the beginning and ending | 5 | 4 |
+| # contigs* with TR** at both endings | 13 | 14 |
+| # contigs* with TR** at one of the endings | 25 | 22 |
+| # contigs* with no TR** at the endings | 5 | 4 |
 
 contigs* - contigs larger or equal to 3Mbp
 
-TR** - tandem repeats
+TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 
 ### D-Genies plots - assemblies vs reference
