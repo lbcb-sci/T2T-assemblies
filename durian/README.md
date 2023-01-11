@@ -20,7 +20,7 @@ For assembly evaluation, the current Durian [reference](https://www.nature.com/a
 
 ## v0.1
 
-The assembly was created using hifiasm utilizing Hi-C reads to produce a phased diploid assembly.
+The assembly was created using [hifiasm](https://github.com/chhylp123/hifiasm) utilizing Hi-C reads to produce a phased diploid assembly.
 
 Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/durian.hifiasm.hic.ulont100.asm.hic.hap1.p_ctg.fa)
 
@@ -46,7 +46,7 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 # Assembly  releases 
 ## v0.2
 
-The assembly was created using hifiasm utilizing Hi-C reads to produce a phased diploid assembly.
+The assembly was created using [hifiasm](https://github.com/chhylp123/hifiasm) utilizing Hi-C reads to produce a phased diploid assembly.
 
 Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hifiasm_err_corr_100k_nochim.asm.hic.hap1.p_ctg.fa)
 
