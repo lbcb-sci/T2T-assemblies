@@ -97,7 +97,7 @@ Haplotype 2 is available at [link]()
 |--------|---------|--------|     
 | NG50 | 23.244.502 | 25.145.390 |
 | # contigs | 370 | 299 |
-| Total length | | |
+| Total length | 788.182.177 | 808.327.069 |
 | # contigs >= 3Mbp | 32 | 36 |
 | Total length* | 703.801.351 | 756.044.094 |
 | # contigs* with TR*** at both endings | 7 | 15 |
