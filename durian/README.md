@@ -88,9 +88,9 @@ For manual scaffolding HiC reads were mapped to assembly using [bwa](https://git
 
 Manual scaffolding map created using the [PretextMap](https://github.com/wtsi-hpag/PretextMap) tool. Manual scaffolding performed using the [PretextView](https://github.com/wtsi-hpag/PretextView) tool.
 
-Haplotype 1 is available at [link]()
+Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hap1.scaffolds.fasta)
 
-Haplotype 2 is available at [link]()
+Haplotype 2 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hap2.scaffolds.fasta)
  
  
 | | Haplotype 1 | Haplotype 2 |
