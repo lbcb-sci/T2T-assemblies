@@ -79,3 +79,43 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 ### D-Genies plots - assemblies vs reference
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.2-assembly-to-reference.png)
 
+# Assembly  releases 
+## v0.3
+
+The results of the first rounds of manual scaffolding using assembly v0.2. 
+
+For manual scaffolding HiC reads were mapped to assembly using [bwa](https://github.com/lh3/bwa). 
+
+Manual scaffolding map created using the [PretextMap](https://github.com/wtsi-hpag/PretextMap) tool. Manual scaffolding performed using the [PretextView](https://github.com/wtsi-hpag/PretextView) tool.
+
+Haplotype 1 is available at [link]()
+
+Haplotype 2 is available at [link]()
+ 
+ 
+| | Haplotype 1 | Haplotype 2 |
+|--------|---------|--------|     
+| NG50 | 23.244.502 | 25.145.390 |
+| # contigs | 370 | 299 |
+| Total length | | |
+| # contigs >= 3Mbp | 32 | 36 |
+| Total length* | 703.801.351 | 756.044.094 |
+| # contigs* with TR*** at both endings | 7 | 15 |
+| # contigs* with TR*** at one of the endings | 13 | 11 |
+| # contigs* with no TR*** at the endings | 10 | 10 |
+| # contigs >= 1Mbp | 49 | 46 |
+| Total length** | 731.151.394  | 773.559.680 |
+| # contigs** with TR*** at both endings | 7 | 15 |
+| # contigs** with TR*** at one of the endings | 17 | 16 |
+| # contigs** with no TR*** at the endings | 25 | 15 |
+
+contigs* - contigs larger or equal to 3Mbp
+
+contigs** - contigs larger or equal to 1Mbp
+
+TR*** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
+
+
+### D-Genies plots - assemblies vs reference
+
+
