@@ -118,4 +118,4 @@ TR*** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 ### D-Genies plots - assemblies vs reference
 
-
+![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.3-durian-assembly-to_reference.png)
