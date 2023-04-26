@@ -42,8 +42,7 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 ### D-Genies plots - assemblies vs reference
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.1-assembly-to-reference.png)
-
-# Assembly  releases 
+ 
 ## v0.2
 
 The assembly was created using [hifiasm](https://github.com/chhylp123/hifiasm) utilizing Hi-C reads to produce a phased diploid assembly.
@@ -79,7 +78,6 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 ### D-Genies plots - assemblies vs reference
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.2-assembly-to-reference.png)
 
-# Assembly  releases 
 ## v0.3
 
 The results of the first rounds of manual scaffolding using assembly v0.2. 
@@ -119,3 +117,9 @@ TR*** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 ### D-Genies plots - assemblies vs reference
 
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.3-durian-assembly-to_reference.png)
+
+## v0.4
+
+Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Eaywgjh-HOJBmwC1HNWZWKcBHl3NdZdrskR4R8hSadFOsA?e=K54txv)
+
+Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Ee1cKlTiCKxIrwqu79AjYL0BAOvHtsb1af9VzJc-i_GWDQ?e=1VSznl)
