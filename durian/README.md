@@ -120,6 +120,28 @@ TR*** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 ## v0.4
 
+ULONT data was utilized for scaffolding with the [SAMBA](https://github.com/alekseyzimin/masurca) scaffolder.
+
 Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Eaywgjh-HOJBmwC1HNWZWKcBHl3NdZdrskR4R8hSadFOsA?e=K54txv)
 
 Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Ee1cKlTiCKxIrwqu79AjYL0BAOvHtsb1af9VzJc-i_GWDQ?e=1VSznl)
+
+ 
+| | Haplotype 1 | Haplotype 2 |
+|--------|---------|--------|     
+| NG50 | 22.234.587 | 23.157.154 |
+| # scaffolds | 349 | 309 |
+| Total length | 791.086.597 | 802.879.292 |
+| # scaffolds >= 3Mbp | 40 | 39 |
+| Total length* | 731.545.803 | 791.086.597 |
+| # scaffolds* with TR** at both endings | 14 | 15 |
+| # scaffolds* with TR** at one of the endings | 24 | 21 |
+| # scaffolds* with no TR** at the endings | 2 | 3 |
+
+scaffolds* - scaffolds larger or equal to 3Mbp
+
+TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
+
+
+### D-Genies plots - assemblies vs reference
+![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.4-durian-assembly-to_reference.png)
