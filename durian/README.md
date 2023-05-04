@@ -159,9 +159,9 @@ Alternative assembly obtained using [verkko tool](https://github.com/Dmitry-Anti
 | Total length* | 665.051.820 | 614.410.844 |
 
 ### D-Genies plots - assemblies vs reference
-
+![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-assembly-to-reference.png)
 ### D-Genies plots - assemblies vs hifiasm assemblies (v.4)
-
+![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-assemblies-to-hifiasm-assemblies(v.4).png)
 ### Bandage plot - graph before phasing
-
+![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-bandage-plot-before-phasing.png)
 
