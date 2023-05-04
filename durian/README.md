@@ -150,6 +150,10 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 Alternative assembly obtained using [verkko tool](https://github.com/Dmitry-Antipov/verkkohic).
 
+Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EdYALXoozA9MmZp3IuiLtBMBlyZ5XBpP2mrE4_mcoxwkjQ?e=7Wj52O)
+
+Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EXab5y638dNOi5j4UXDEfNAB5tu6bjeH2KLbukHmwb0gLQ?e=vzoOc3)
+
 | | Haplotype 1 | Haplotype 2 |
 |--------|---------|--------|     
 | NG50 | 13.835.789 | 11.492.067 |
