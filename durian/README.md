@@ -145,3 +145,23 @@ TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 ### D-Genies plots - assemblies vs reference
 ![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.4-durian-assembly-to_reference.png)
+
+## v0.4.1
+
+Alternative assembly obtained using [verkko tool](https://github.com/Dmitry-Antipov/verkkohic).
+
+| | Haplotype 1 | Haplotype 2 |
+|--------|---------|--------|     
+| NG50 | 13.835.789 | 11.492.067 |
+| # scaffolds | 320 | 430 |
+| Total length | 737.823.106 | 726.329.981 |
+| # scaffolds >= 3Mbp | 62 | 68 |
+| Total length* | 665.051.820 | 614.410.844 |
+
+### D-Genies plots - assemblies vs reference
+
+### D-Genies plots - assemblies vs hifiasm assemblies (v.4)
+
+### Bandage plot - graph before phasing
+
+
