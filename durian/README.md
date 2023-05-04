@@ -154,6 +154,8 @@ Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/persona
 
 Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EXab5y638dNOi5j4UXDEfNAB5tu6bjeH2KLbukHmwb0gLQ?e=vzoOc3)
 
+Unassigned contigs are available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EV6dxobJQLJLpQGtX0BjmJYB3074ZGol8JLQov_IN8wmjw?e=UupgQo)
+
 | | Haplotype 1 | Haplotype 2 |
 |--------|---------|--------|     
 | NG50 | 13.835.789 | 11.492.067 |
