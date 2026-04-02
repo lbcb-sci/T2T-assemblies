@@ -139,7 +139,7 @@ Haplotype 2 (mat) available at [link](https://drive.google.com/file/d/1HSta9GfLQ
 | Largest contig | 39.145.193  | 46.917.239 |
 | gaps | 0 | 0 |
 | GC content (%) | 33 | 33 |
-| Genome BUSCOs (%) | 17 | 16 |
+| Genome BUSCOs (%) | 99.6 | 99.8 |
 | QV | 55 | 50 |
 
 
