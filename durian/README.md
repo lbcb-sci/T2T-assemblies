@@ -135,10 +135,10 @@ Haplotype 2 (mat) available at [link](https://drive.google.com/file/d/1HSta9GfLQ
 | NG50 | 28Mb | 26MB |
 | # chromosomes | 28 | 28 |
 | # T2T chromosomes | 28 | 28 |
-| Total length | 757.460.232 | 768,943,102 |
+| Total length | 757.460.232 | 768.943.102 |
 | Largest contig | 39.145.193  | 46.917.239 |
 | gaps | 0 | 0 |
-| GC content (%) | 32,7 | 32,7 |
+| GC content (%) | 33 | 33 |
 | Genome BUSCOs (%) | 17 | 16 |
 | QV | 55 | 50 |
 
