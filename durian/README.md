@@ -22,9 +22,9 @@ For assembly evaluation, the current Durian [reference](https://www.nature.com/a
 
 The assembly was created using [hifiasm](https://github.com/chhylp123/hifiasm) utilizing Hi-C reads to produce a phased diploid assembly.
 
-Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/durian.hifiasm.hic.ulont100.asm.hic.hap1.p_ctg.fa)
+Haplotype 1 is available at [link](https://drive.google.com/file/d/1yPfw6y17zuia1zhvDXG95gpF4MTZHe5g/view?usp=sharing)
 
-Haplotype 2 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/durian.hifiasm.hic.ulont100.asm.hic.hap2.p_ctg.fa)
+Haplotype 2 is available at [link](https://drive.google.com/file/d/1t3hSNTiggkVMKiILsE8PShcATYy3WkU4/view?usp=sharing)
  
  
 | | Haplotype 1 | Haplotype 2 |
@@ -40,16 +40,15 @@ contigs* - contigs larger or equal to 3Mbp
 
 TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
-### D-Genies plots - assemblies vs reference
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.1-assembly-to-reference.png)
+
  
 ## v0.2
 
 The assembly was created using [hifiasm](https://github.com/chhylp123/hifiasm) utilizing Hi-C reads to produce a phased diploid assembly.
 
-Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hifiasm_err_corr_100k_nochim.asm.hic.hap1.p_ctg.fa)
+Haplotype 1 is available at [link](https://drive.google.com/file/d/1w1BmmBogn6NnHxCoJfX60yoYJY-rjmRo/view?usp=sharing)
 
-Haplotype 2 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hifiasm_err_corr_100k_nochim.asm.hic.hap2.p_ctg.fa)
+Haplotype 2 is available at [link](https://drive.google.com/file/d/1LuvwGmWjC7bhXs973QUum8Y0ydohl_gT/view?usp=sharing)
 
 Hifi reads were beforehand procured using [DeepConsensus](https://github.com/google/deepconsensus).
 
@@ -75,8 +74,6 @@ contigs* - contigs larger or equal to 3Mbp
 TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 
-### D-Genies plots - assemblies vs reference
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.2-assembly-to-reference.png)
 
 ## v0.3
 
@@ -86,9 +83,9 @@ For manual scaffolding HiC reads were mapped to assembly using [bwa](https://git
 
 Manual scaffolding map created using the [PretextMap](https://github.com/wtsi-hpag/PretextMap) tool. Manual scaffolding performed using the [PretextView](https://github.com/wtsi-hpag/PretextView) tool.
 
-Haplotype 1 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hap1.scaffolds.fasta)
+Haplotype 1 is available at [link](https://drive.google.com/file/d/1WbZd9krxL8aP0X-_RRJtyPEjOtB4qrtJ/view?usp=sharing)
 
-Haplotype 2 is available at [link](https://durianreferencelbcb.s3.eu-central-1.amazonaws.com/hap2.scaffolds.fasta)
+Haplotype 2 is available at [link](https://drive.google.com/file/d/17wPcQ5FqNJs018fP9_tMASj5vH2kIc2n/view?usp=share_link)
  
  
 | | Haplotype 1 | Haplotype 2 |
@@ -114,60 +111,35 @@ contigs** - contigs larger or equal to 1Mbp
 TR*** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
 
 
-### D-Genies plots - assemblies vs reference
+...
 
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.3-durian-assembly-to_reference.png)
+## v0.8
 
-## v0.4
 
-ULONT data was utilized for scaffolding with the [SAMBA](https://github.com/alekseyzimin/masurca) scaffolder.
+Complete telomere-to-telomere (T2T), gapless assembly (all chromosomes).
 
-Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Eaywgjh-HOJBmwC1HNWZWKcBHl3NdZdrskR4R8hSadFOsA?e=K54txv)
+Built by integrating hifiasm and Verkko assemblies derived from multiple combinations of input reads (HiFi, UL, etc.).
+Scaffolding performed with YAHS.
 
-Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/Ee1cKlTiCKxIrwqu79AjYL0BAOvHtsb1af9VzJc-i_GWDQ?e=1VSznl)
+Additional manual scaffolding using contact maps in Juicebox.
 
- 
-| | Haplotype 1 | Haplotype 2 |
+Manual gap filling via local reassembly of HiFi, ultra-long (UL), and HERRO-corrected UL reads.
+
+Haplotype 1 (pat) available at [link](https://drive.google.com/file/d/1RwoCDHIEgFp9yNJ6aOLANt36DMKCv6Ct/view?usp=share_link)
+
+Haplotype 2 (mat) available at [link](https://drive.google.com/file/d/1HSta9GfLQM6JX1XbqEyGGqwSkCw7E9bS/view?usp=sharing)
+
+
+| | Haplotype 1 (pat) | Haplotype 2 (mat) |
 |--------|---------|--------|     
-| NG50 | 22.234.587 | 23.157.154 |
-| # scaffolds | 349 | 309 |
-| Total length | 791.086.597 | 802.879.292 |
-| # scaffolds >= 3Mbp | 40 | 39 |
-| Total length* | 731.545.803 | 791.086.597 |
-| # scaffolds* with TR** at both endings | 14 | 15 |
-| # scaffolds* with TR** at one of the endings | 24 | 21 |
-| # scaffolds* with no TR** at the endings | 2 | 3 |
+| NG50 | 28Mb | 26MB |
+| # chromosomes | 28 | 28 |
+| # T2T chromosomes | 28 | 28 |
+| Total length | 757.460.232 | 768,943,102 |
+| Largest contig | 39.145.193  | 46.917.239 |
+| gaps | 0 | 0 |
+| GC content (%) | 32,7 | 32,7 |
+| Genome BUSCOs (%) | 17 | 16 |
+| QV | 55 | 50 |
 
-scaffolds* - scaffolds larger or equal to 3Mbp
-
-TR** - tandem repeats specific for telomeres (ACCCTAA/TTAGGGT)
-
-
-### D-Genies plots - assemblies vs reference
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/v0.4-durian-assembly-to_reference.png)
-
-## v0.4.1
-
-Alternative assembly obtained using [verkko tool](https://github.com/Dmitry-Antipov/verkkohic).
-
-Haplotype 1 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EdYALXoozA9MmZp3IuiLtBMBlyZ5XBpP2mrE4_mcoxwkjQ?e=7Wj52O)
-
-Haplotype 2 is available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EXab5y638dNOi5j4UXDEfNAB5tu6bjeH2KLbukHmwb0gLQ?e=vzoOc3)
-
-Unassigned contigs are available at [link](https://ferhr-my.sharepoint.com/:u:/g/personal/ftomas_fer_hr/EV6dxobJQLJLpQGtX0BjmJYB3074ZGol8JLQov_IN8wmjw?e=UupgQo)
-
-| | Haplotype 1 | Haplotype 2 |
-|--------|---------|--------|     
-| NG50 | 13.835.789 | 11.492.067 |
-| # scaffolds | 320 | 430 |
-| Total length | 737.823.106 | 726.329.981 |
-| # scaffolds >= 3Mbp | 62 | 68 |
-| Total length* | 665.051.820 | 614.410.844 |
-
-### D-Genies plots - assemblies vs reference
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-assembly-to-reference.png)
-### D-Genies plots - assemblies vs hifiasm assemblies (v.4)
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-assemblies-to-hifiasm-assemblies(v.4).png)
-### Bandage plot - graph before phasing
-![](https://github.com/lbcb-sci/T2T-assemblies/blob/main/data/verrkohic-bandage-plot-before-phasing.png)
 
